@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-icon.svg" title="Python" alt="Python">
-https://www.vectorlogo.zone/logos/python/python-icon.svg
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python">
 </p>
 
 # 
