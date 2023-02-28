@@ -1,5 +1,5 @@
 ### Olá 👋 Sou Diego Calado, estagiário de T.I na empresa grupo Ronaldo alves desde setembro de 2022.
- 🔭 atualmente trabalho com html, css, sql e java.
+ 🔭 atualmente trabalho com html, css, sql e java.<br>
  🌱 Estou estudando cursos de desenvolvimento full stack.
 
 <!--
