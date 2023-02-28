@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋 Sou Diego Calado, estagiário de T.I na empresa grupo Ronaldo alves desde setembro de 2022.
+ 🔭 atualmente trabalho com html, css, sql e java.
+ 🌱 Estou estudando cursos de desenvolvimento full stack.
 
 <!--
 **DiegoCaladoProgramador/DiegoCaladoProgramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
